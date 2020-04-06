@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "538476902569",
+    "firebase_url": "https://coronatesting-e62c9.firebaseio.com",
+    "project_id": "coronatesting-e62c9",
+    "storage_bucket": "coronatesting-e62c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538476902569:android:e086a34eaa3571032551b8",
+        "android_client_info": {
+          "package_name": "com.md.coronatesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538476902569-26jvg89mh9arohrik08gj290h4peciet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.md.coronatesting",
+            "certificate_hash": "0a21eaaf8aee73899967722e503d7b129d42c22a"
+          }
+        },
+        {
+          "client_id": "538476902569-k5s235r42jr123q4glh3ukas9t3feou5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.md.coronatesting",
+            "certificate_hash": "3c649b5b96f11e38474be9c4140d055e46c1b349"
+          }
+        },
+        {
+          "client_id": "538476902569-7mmu1dhua6ss0259v354kqa4pqohghje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhA3Bm2hbhpjiRbLSekfFV--jgsXMZe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538476902569-7mmu1dhua6ss0259v354kqa4pqohghje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

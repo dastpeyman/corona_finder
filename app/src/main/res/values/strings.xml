@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">کرونایاب</string>
+    <item name="datePickerPart" type="id"/>
+    <item name="imageSelectorPart" type="id"/>
+    <item name="infoTextInfo" type="id"/>
+    <item name="infoTextQuestion" type="id"/>
+    <item name="infoTextTitle" type="id"/>
+    <item name="integerFieldPartField" type="id"/>
+    <item name="multipleChoicePart" type="id"/>
+    <item name="questionContent" type="id"/>
+    <item name="questionFooter" type="id"/>
+    <item name="questionHeader" type="id"/>
+    <item name="seekBarPartField" type="id"/>
+    <item name="singleChoicePart" type="id"/>
+    <item name="textFieldPartField" type="id"/>
+    <item name="timePickerPart" type="id"/>
+    <item name="valuePickerPart" type="id"/>
+    <string name="about_you_question_text">Tell us about yourself and why you want to improve your health.</string>
+    <string name="about_you_question_title">Tell us about you</string>
+    <string name="allergies_back_penicillin">Penicillin</string>
+    <string name="allergies_latex">Latex</string>
+    <string name="allergies_pet">Pet</string>
+    <string name="allergies_pollen">Pollen</string>
+    <string name="allergies_question_text">Do you have any allergies that we should be aware of?</string>
+    <string name="allergies_question_title">Known allergies</string>
+    <string name="boolean_example_text">BooleanAnswerFormat example text</string>
+    <string name="boolean_example_title">BooleanAnswerFormat example title</string>
+    <string name="cancel">انصراف</string>
+    <string name="date_picker_text">Date Picker text</string>
+    <string name="date_picker_title">Date Picker title</string>
+    <string name="email_question_text">Email question text</string>
+    <string name="email_question_title">Email question title</string>
+    <string name="empty" translatable="false"/>
+    <string name="finish">اتمام</string>
+    <string name="finish_question_submit">مشاهده نتیجه</string>
+    <string name="finish_question_text">در صورت اطمینان از جواب های خود بر روی دکمه مشاهده نتیجه کلیک کنید!</string>
+    <string name="finish_question_title">اتمام!</string>
+    <string name="how_fat_max">5</string>
+    <string name="how_fat_min">1</string>
+    <string name="how_fat_question_text"/>
+    <string name="how_fat_question_title">Select your body type</string>
+    <string name="how_old_hint">لطفا سن خود را وارد کنید</string>
+    <string name="how_old_text"/>
+    <string name="how_old_title">سن شما چقدر است؟</string>
+    <string name="image_selector_question_text">Pick a color</string>
+    <string name="image_selector_question_title">Image choice</string>
+    <string name="intro_start">شروع!</string>
+    <string name="intro_text">Get ready for a bunch of super random questions!</string>
+    <string name="intro_title"> \nتست سنجش احتمال  \nابتلا به کرونا \n</string>
+    <string name="next">بعدی</string>
+    <string name="no">خیر</string>
+    <string name="continue_click">ادامه</string>
+
+    <string name="quit_or_continue_question_text_1">آیا در چند روز اخیر احساس لرز شدید دارید؟</string>
+    <string name="quit_or_continue_question_text_2">آیا در چند روز اخیر سرفه خشک زیاد و شدید دارید؟</string>
+    <string name="quit_or_continue_question_text_3">آیا در چند روز احساس گلو درد شدید دارید؟</string>
+    <string name="quit_or_continue_question_text_4">آیا احساس تنگی نفس دارید؟</string>
+    <string name="quit_or_continue_question_text_5">آیا درجه تب شما بالاتر از 38.5 (زیر زبان) و یا 38 (زیربغل) درجه است؟</string>
+    <string name="quit_or_continue_question_text_6">آیا همراه تنگی نفس سرفه شدید دارید؟</string>
+    <string name="quit_or_continue_question_text_7">یا تنگی نفس مانع خوابیدن و دراز کشیدن شما می شود؟</string>
+    <string name="quit_or_continue_question_text_8">آیا تنگی نفس شما در حدی است که نمی توانید 2 طبقه پله را به راحتی بالا بروید؟</string>
+    <string name="quit_or_continue_question_text_9">آیا تنگی نفس شما در حدی است که نمی توانید کارهای منزل را انجام دهید؟</string>
+    <string name="quit_or_continue_question_text_10">آیا تنگی نفس شما در حدی است که نمی توانید کارهای خارج از منزل را انجام دهید؟</string>
+    <string name="quit_or_continue_question_text_11">آیا بعلت بیماری قلبی در زندگی روزمره مشکل دارید؟</string>
+    <string name="quit_or_continue_question_text_12">آیا بعلت آسم یا برونشیت مزمن در زندگی روزمره مشکل دارید؟</string>
+    <string name="quit_or_continue_question_text_13">آیا به خاطر فشارخون بالا دارو مصرف می‌کنید، اما با این وجود فشار خون شما بالا است؟</string>
+    <string name="quit_or_continue_question_text_14">آیا دیابت دارید و علیرغم مصرف قرص یا تزریق انسولین همچنان با عوارض بیماری مواجه هستید؟</string>
+    <string name="quit_or_continue_question_text_15">آیا بیش از 2 هفته مداوم برای بیماری هایی مثل روماتیسم و … در حال مصرف کورتون هستید؟</string>
+    <string name="quit_or_continue_question_text_16">آیا در حال گذراندن مراحلی شیمی درمانی یا رادیوتراپی هستید؟</string>
+    <string name="quit_or_continue_question_text_17">آیا در حال گذراندن مراحل پیوند اعضا هستید؟</string>
+    <string name="quit_or_continue_question_text_18">آیا تحت درمان نقص ایمنی اکتسابی (ایدز) هستید؟</string>
+    <string name="quit_or_continue_question_text_19">آیا دچار نقص ایمنی اولیه هستید؟</string>
+    <string name="quit_or_continue_question_text_20">آیا در چند روز یا هفته اخیر یکی از نزدیکان شما بعلت بیماری شدید تنفسی بستری شده است؟</string>
+
+    <string name="quit_or_continue_question_title">Done?</string>
+    <string name="start">Start</string>
+    <string name="time_picker_text">Time Picker text</string>
+    <string name="time_picker_title">Time Picker title</string>
+    <string name="value_picker_example_text">Here you can pick any value you\'d like!</string>
+    <string name="value_picker_example_title">Pick a value</string>
+    <string name="yes">بله</string>
+    <string name="corona_survey">تست سنجش کرونا</string>
+    <string name="statistics_corona_all_countries">آمار مبتلایان کشورها</string>
+
+    <string name="cases_all_contry">آمار کلی کرونا در جهان تا کنون</string>
+    <string name="cases">مبتلا شده :  </string>
+    <string name="deaths">فوت شده :  </string>
+    <string name="recovered">بهبود یافته :  </string>
+    <string name="critical">بحرانی :  </string>
+    <string name="active">فعال :  </string>
+    <string name="deaths_today">فوت شدگان امروز :  </string>
+    <string name="cases_today">مبتلا شدگان امروز :  </string>
+    <string name="deaths_one_mellion">فوت شدگان هر یک میلیون :  </string>
+    <string name="cases_one_mellion">مبتلایان هر یک میلیون :  </string>
+    <string name="please_waite">لطفا چند لحظه صبر کنید !</string>
+    <string name="result_good">\nشما دارای علایم اولیه ویروس کرونا نیستید،
+        \n اما بخاطر داشتن عوامل خطر،لازم است که موارد احتیاطی را با دقت زیاد رعایت نمایید.
+        در صورت تغییر در علایم لطفا مجددا به این برنامه مراجعه کنید.</string>
+    <string name="result_bad">جمع بندی علایم نشان می دهد که شما نیازمند بررسی دقیق تر از نظر بیماری های تنفسی هستید.
+        \n
+        لطفا جهت معاینه،به پزشک یا مراکز بهداشتی درمانی مراجعه کنید.</string>
+
+    <string name="message_alarm">این نظر سنجی بر اساس آخرین اطلاعات جمع آوری شده و بر اساس آیتم های وزارت بهداشت می باشد.باید توجه داشت که در صورت داشتن علائم نباید تنها به جواب این تست اکتفا کرد.
+درآمد حاصل از تبلیغات این اپلیکیشن صرف بیماران کرونایی میشود.
+بیایید با در خانه ماندن به قطع این زنجیره کمک کنیم!</string>
+
+    <string name="woman">زن</string>
+    <string name="man">مرد</string>
+    <string name="old">سن</string>
+    <string name="height">قد</string>
+    <string name="weight">وزن</string>
+    <string name="sex">جنسیت :</string>
+</resources>

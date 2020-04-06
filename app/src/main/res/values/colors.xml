@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0094fc</color>
+    <color name="colorPrimaryDark">#0067c8</color>
+    <color name="colorAccent">#68c4ff</color>
+    <color name="white_10">#1f1f1f</color>
+    <color name="white_30">#4d4d4d</color>
+    <color name="white_50">#808080</color>
+    <color name="white_70">#b3b3b3</color>
+    <color name="white">#ffffff</color>
+    <color name="white_bg">#eeeeee</color>
+    <color name="star">#e0b32b</color>
+    <color name="black_12">#e0e0e0</color>
+    <color name="black_38">#9e9e9e</color>
+    <color name="black_54">#757575</color>
+    <color name="black_87">#212121</color>
+
+    <color name="text_color_title">#0094fc</color>
+
+    <color name="cyan_text">#0067c8</color>
+    <color name="cyan_normal">#0067c8</color>
+    <color name="cyan_dark">#0067c8</color>
+
+    <color name="green_text">#48E924</color>
+    <color name="green_normal">#40D31F</color>
+    <color name="green_dark">#38B41C</color>
+
+    <color name="orange_text">#E75B30</color>
+    <color name="orange_normal">#DF552B</color>
+    <color name="orange_dark">#AA4020</color>
+
+    <color name="mapFill">#1c3f60</color>
+    <color name="mapStroke">#ffffff</color>
+    <color name="mapBackground">#71bad2</color>
+    <color name="mapNameCountry">#ffffff</color>
+    <color name="mapLine">#ffffff</color>
+
+    <color name="cases">#ffc045</color>
+    <color name="recovered">#48E924</color>
+    <color name="deaths">#d72323</color>
+    <color name="critical">#927fbf</color>
+    <color name="active">#71bad2</color>
+    <color name="death_milion">#4c5f7a</color>
+    <color name="cases_milion">#065471</color>
+
+    <color name="buttonBg">#0094FC</color>
+</resources>
