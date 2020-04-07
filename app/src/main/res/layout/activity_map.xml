@@ -4,7 +4,7 @@
     android:id="@+id/homeContextRL"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.md.coronatesting.activities.MapActivity">
+    tools:context="com.mohsen.coronafinder.activities.MapActivity">
 
     <LinearLayout
         android:id="@+id/map"
